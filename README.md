@@ -51,9 +51,9 @@ Functions and Their Purpose
 Gradient Descent is significantly more efficient, converging much faster than brute-force scanning.
 
 
-Output
+Output: 
 The script generates plots for:
-Data distribution
-Best-fit regression line
-MSE vs slope and intercept
-Loss curve for brute-force and gradient descent
+  Data distribution
+  Best-fit regression line
+  MSE vs slope and intercept
+  Loss curve for brute-force and gradient descent
