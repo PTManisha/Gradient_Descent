@@ -6,9 +6,9 @@ This project demonstrates linear regression using two different approaches:
 2. **Gradient descent** for optimizing the slope efficiently.  
 
 The dataset is generated using the equation:  
-\[
-y = m1*x + m2 + \text{noise}
-\]  
+```
+y = m1*x + m2 + {noise}
+```
 
 ## Features  
 - Generates a dataset with random noise.  
