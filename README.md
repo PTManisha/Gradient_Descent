@@ -7,7 +7,7 @@ This project demonstrates linear regression using two different approaches:
 
 The dataset is generated using the equation:  
 \[
-y = m1 \cdot x + m2 + \text{noise}
+y = m1*x + m2 + \text{noise}
 \]  
 
 ## Features  
