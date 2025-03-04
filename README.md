@@ -53,8 +53,8 @@ Gradient Descent is significantly more efficient, converging much faster than br
 
 Output: 
 The script generates plots for:
-  Data distribution
-  Best Fit Regression Line
-  MSE vs slope and MSE vs intercept
-  Loss curve for brute force and gradient descent
+  1. Data distribution
+  2. Best Fit Regression Line
+  3. MSE vs slope and MSE vs intercept
+  4. Loss curve for brute force and gradient descent
   
